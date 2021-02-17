@@ -1,0 +1,22 @@
+body
+{
+    background-color: rgb(154, 109, 196);
+    color: rgb(115, 212, 212);
+}
+
+.heading
+{
+    width: 80%;
+    font-size: 22px;
+}
+
+.name_of_family,#result_family_name,#result_family_accuracy
+{
+    color: rgb(124, 145, 202);
+}
+#camera
+{
+    border: 2px dashed rgb(80, 194, 231);
+    width: 350px;
+    height: 300px;
+}
